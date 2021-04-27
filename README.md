@@ -26,8 +26,8 @@ Siga os passos abaixo!
 > apt install wget
 > pkg install nodejs
 > pkg install npm
-> git clone https://github.com/lucas66688/botzap.git
-> cd botzap
+> git clone https://github.com/lucas66688/nagato999sxx.git
+> cd nagato999sxx
 > bash install.sh
 ```
 
